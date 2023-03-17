@@ -13,7 +13,7 @@ I stand here today as a data analyst, and former chef.
 Today I will introduce you to Rest, revenue prediction for restaurants.
 
 
-(https://github.com/germanortola/REST-revenue-prediction-for-restaurants/blob/main/images/rest01.png)
+https://github.com/germanortola/REST-revenue-prediction-for-restaurants/blob/main/images/rest01.png
 
 Restaurants are a very peculiar business. Let me tell you roughly why.
 
