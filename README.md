@@ -12,6 +12,7 @@ I stand here today as a data analyst, and former chef.
 
 Today I will introduce you to Rest, revenue prediction for restaurants.
 
+rest01.png
 
 https://github.com/germanortola/REST-revenue-prediction-for-restaurants/blob/main/images/rest01.png
 
